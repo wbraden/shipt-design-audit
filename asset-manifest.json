@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/shipt-design-audit/static/js/main.9c04b8e3.js",
+    "main.js": "/shipt-design-audit/static/js/main.26f52e26.js",
     "index.html": "/shipt-design-audit/index.html",
-    "main.9c04b8e3.js.map": "/shipt-design-audit/static/js/main.9c04b8e3.js.map"
+    "main.26f52e26.js.map": "/shipt-design-audit/static/js/main.26f52e26.js.map"
   },
   "entrypoints": [
-    "static/js/main.9c04b8e3.js"
+    "static/js/main.26f52e26.js"
   ]
 }
